@@ -1,3 +1,3 @@
 # reference
 
-The Anole-Lang Reference
+The Anole Reference
